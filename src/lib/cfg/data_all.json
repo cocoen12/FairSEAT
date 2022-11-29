@@ -1,5 +1,5 @@
 {
-    "root":"/home/zyf/dataset",
+    "root":"/home/lhmin/Workspace/DB",
     "train":
     {
         "mot17":"./data/mot17.train",
